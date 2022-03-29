@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Current goal</h2>
-Aspiring machine learning developer.
+<h2>Welcome</h2>
+My name is Jor. I'm an aspiring machine learning developer.
 My research interests include recommender systems, pattern mining and natural language processing. 
 
 
