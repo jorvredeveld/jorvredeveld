@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="Azure" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="30" height="30" />
-  
- 
 </p>
+
+<br>
+<h2>Statistics</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=jorvredeveld&show_icons=true&count_private=true" alt="jorvredeveld" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=jorvredeveld.jorvredeveld" alt="visitors"></p>
