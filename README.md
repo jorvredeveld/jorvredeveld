@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Current goal</h2>
+Aspiring machine learning developer.
+My research interests include recommender systems, pattern mining and natural language processing. 
 
 
 <h2>Data Science Skills</h2>
