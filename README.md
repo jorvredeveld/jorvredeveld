@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>Current goal</h2>
+
 
 <h2>Data Science Skills</h2>
 <p align="left">
