@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Hi there!</h2>
-My name is Jor. I'm an aspiring machine learning developer.
+My name is Jor. I'm a master's student Data Science.
 My research interests include recommender systems, pattern mining and natural language processing. 
 
 
