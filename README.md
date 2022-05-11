@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2>Hi there!</h2>
 My name is Jor. I'm a master's student Data Science.
-My research interests include recommender systems, pattern mining and natural language processing. 
+My research interests include machine learning, data engineering and cloud computing. 
 
 
 <h2>Data Science Skills</h2>
