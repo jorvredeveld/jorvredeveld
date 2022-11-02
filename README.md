@@ -28,6 +28,9 @@ My research interests include machine learning, deep learning and data engineeri
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="20" height="20" /> Github
 </p>
 
+<h2>Projects</h2>
+https://github.com/jorvredeveld/ml-project (coming soon)
+
 <h2>Statistics</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=jorvredeveld&show_icons=true&count_private=true" alt="jorvredeveld" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=jorvredeveld.jorvredeveld" alt="visitors"></p>
