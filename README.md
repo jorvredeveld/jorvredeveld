@@ -25,7 +25,6 @@ My research interests include machine learning, data engineering and cloud compu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="20" height="20" /> Anaconda <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" width="20" height="20" /> PyTorch <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="Azure" width="20" height="20" /> Azure <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="20" height="20" /> Github
 </p>
 
 <h2>Projects</h2>
